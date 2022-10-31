@@ -1,4 +1,4 @@
-import 'package:app04_componentes/pages/segundaalerta_page.dart';
+
 import 'package:app04_componentes/pages/alert_page.dart';
 import 'package:app04_componentes/pages/avatar_page.dart';
 import 'package:flutter/material.dart';
